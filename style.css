@@ -1,0 +1,28 @@
+
+.sap{
+	width: 400px;
+	background:#C0C0C06;
+	margin: 100px auto;
+	padding: 50px 20px 40px 20px;
+	border-radius: 10px;
+	box-shadow: 0px 10px 20px 0px #F0F8FF;
+
+}
+
+.yoi{
+	width: 400px;
+	background: #585858;
+	margin: 300px auto;
+	padding: 20px 20px 50px 20px;
+	border-radius: 10px;
+	box-shadow: 0px 10px 20px 0px #0A1B2A;
+}
+
+.yes{
+	width: 400px;
+	background:#C0C0C06;
+	margin: 100px auto;
+	padding: 50px 20px 40px 20px;
+	border-radius: 10px;
+	box-shadow: 0px 10px 20px 0px #F0F8FF;
+}
